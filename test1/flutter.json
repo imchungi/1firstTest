@@ -1,0 +1,8 @@
+{
+    "name": "Flutter",
+    "description": "Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "website": "https://flutter.dev/",
+    "version": "2.8.1",
+    "license": "New BSD License",
+    "github": "https://github.com/flutter/flutter"
+}
