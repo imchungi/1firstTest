@@ -5,7 +5,7 @@
       {
         "id": 1,
         "mode": "Free",
-        "title": "titleText",
+        "title": "1-titleText",
         "workMemo": "ChinUp",
         "CountNumber": [
           {
@@ -28,7 +28,7 @@
       {
         "id": 2,
         "mode": "default",
-        "title": "title-default",
+        "title": "2-title-default",
         "workMemo": "squat",
         "CountNumber": [
           {
