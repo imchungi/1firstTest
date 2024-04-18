@@ -1,5 +1,5 @@
 {
-  "atheletic" :
+  "atheletic1" :
   [
     {
       "id": 1,
@@ -43,6 +43,27 @@
         {
           "count": 13,
           "weight": 30,
+          "isDone": false
+        }
+      ]
+    }
+  ],
+  "atheletic2" :
+  [
+    {
+      "id": 1,
+      "mode": "Free",
+      "title": "titleText",
+      "workMemo": "PullUp",
+      "CountNumber": [
+        {
+          "count": 20,
+          "weight": 20,
+          "isDone": false
+        },
+        {
+          "count": 22,
+          "weight": 22,
           "isDone": false
         }
       ]
