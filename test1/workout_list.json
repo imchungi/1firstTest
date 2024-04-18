@@ -1,72 +1,76 @@
 {
-  "atheletic1" :
-  [
-    {
-      "id": 1,
-      "mode": "Free",
-      "title": "titleText",
-      "workMemo": "ChinUp",
-      "CountNumber": [
-        {
-          "count": 10,
-          "weight": 10,
-          "isDone": false
-        },
-        {
-          "count": 12,
-          "weight": 20,
-          "isDone": false
-        },
-        {
-          "count": 13,
-          "weight": 30,
-          "isDone": false
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "mode": "default",
-      "title": "title-default",
-      "workMemo": "squat",
-      "CountNumber": [
-        {
-          "count": 10,
-          "weight": 10,
-          "isDone": false
-        },
-        {
-          "count": 12,
-          "weight": 20,
-          "isDone": false
-        },
-        {
-          "count": 13,
-          "weight": 30,
-          "isDone": false
-        }
-      ]
-    }
-  ],
-  "atheletic2" :
-  [
-    {
-      "id": 1,
-      "mode": "Free",
-      "title": "titleText",
-      "workMemo": "PullUp",
-      "CountNumber": [
-        {
-          "count": 20,
-          "weight": 20,
-          "isDone": false
-        },
-        {
-          "count": 22,
-          "weight": 22,
-          "isDone": false
-        }
-      ]
-    }
-  ]
- }
+  "W1": {
+    "aname" : "workout-1",
+    "athletics": [
+      {
+        "id": 1,
+        "mode": "Free",
+        "title": "titleText",
+        "workMemo": "ChinUp",
+        "CountNumber": [
+          {
+            "count": 10,
+            "weight": 10,
+            "isDone": false
+          },
+          {
+            "count": 12,
+            "weight": 20,
+            "isDone": false
+          },
+          {
+            "count": 13,
+            "weight": 30,
+            "isDone": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "mode": "default",
+        "title": "title-default",
+        "workMemo": "squat",
+        "CountNumber": [
+          {
+            "count": 10,
+            "weight": 10,
+            "isDone": false
+          },
+          {
+            "count": 12,
+            "weight": 20,
+            "isDone": false
+          },
+          {
+            "count": 13,
+            "weight": 30,
+            "isDone": false
+          }
+        ]
+      }
+    ]
+  },
+  "W2": {
+    "aname" : "workout-2",
+    "athletics": [
+      {
+        "id": 1,
+        "mode": "Free",
+        "title": "titleText",
+        "workMemo": "PullUp",
+        "CountNumber": [
+          {
+            "count": 20,
+            "weight": 20,
+            "isDone": false
+          },
+          {
+            "count": 22,
+            "weight": 22,
+            "isDone": false
+          }
+        ]
+      }
+    ]
+  }
+}
