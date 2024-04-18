@@ -1,0 +1,51 @@
+{
+  "atheletic" :
+  [
+    {
+      "id": 1,
+      "mode": "Free",
+      "title": "titleText",
+      "workMemo": "ChinUp",
+      "CountNumber": [
+        {
+          "count": 10,
+          "weight": 10,
+          "isDone": false
+        },
+        {
+          "count": 12,
+          "weight": 20,
+          "isDone": false
+        },
+        {
+          "count": 13,
+          "weight": 30,
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "mode": "default",
+      "title": "title-default",
+      "workMemo": "squat",
+      "CountNumber": [
+        {
+          "count": 10,
+          "weight": 10,
+          "isDone": false
+        },
+        {
+          "count": 12,
+          "weight": 20,
+          "isDone": false
+        },
+        {
+          "count": 13,
+          "weight": 30,
+          "isDone": false
+        }
+      ]
+    }
+  ]
+ }
