@@ -7,7 +7,7 @@
         "mode": "Free",
         "title": "1-titleText",
         "workMemo": "ChinUp",
-        "CountNumber": [
+        "CountData": [
           {
             "count": 10,
             "weight": 10,
@@ -30,7 +30,7 @@
         "mode": "default",
         "title": "2-title-default",
         "workMemo": "squat",
-        "CountNumber": [
+        "CountData": [
           {
             "count": 10,
             "weight": 10,
@@ -58,7 +58,7 @@
         "mode": "Free",
         "title": "titleText",
         "workMemo": "PullUp",
-        "CountNumber": [
+        "CountData": [
           {
             "count": 20,
             "weight": 20,
